@@ -5,9 +5,9 @@
 //application level variables
 var startX = "199"
 var pink = "#f78dbd"
+
 //setup the application
 //create canvas
-
 function setup() {
     createCanvas(410,700);
     rect(130, 560, 140, -385);
