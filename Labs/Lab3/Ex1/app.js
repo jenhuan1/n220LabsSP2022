@@ -9,6 +9,7 @@ function setup() {
 }
 
 function draw() {
+    background(111, 210, 237);
     drawFace(mouseX,mouseY);
 }
 
